@@ -1,0 +1,1 @@
+The aim of my project is build a basic recipe website, containing a main landing page and has the ability to link to a few other recipes.
